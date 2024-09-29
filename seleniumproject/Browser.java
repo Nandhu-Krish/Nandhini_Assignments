@@ -20,19 +20,3 @@ public class Browser {
 		
 		
 }
-
-
-
-
-
-
-/*public static void main(String[] args) {
-
-
-Browser lc = new Browser();
-//lc.luanchBrowser(s);
-lc.openURL();
-lc.closeBrowser();
-lc.navigateBack();
-
-}*/
